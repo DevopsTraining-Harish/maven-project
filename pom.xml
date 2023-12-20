@@ -96,7 +96,7 @@
 	      <id>nexus</id>
 	      <name>Nexus</name>
 	      <url>http://ec2-184-72-97-71.compute-1.amazonaws.com:8081/repository/Nexus/</url>
-	    </repositoies>
+	    </repositories>
 	<distributionManagement>
 	
 	    <repository>
