@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>HD SolutionsReleases Nexus Repository</name>
-	      <url>http://3.19.244.59:9000/nexus/repository/recordcenter-release/</url>
+	      <url>http://ec2-184-72-97-71.compute-1.amazonaws.com:8081/repository/repo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>HD SolutionsSnapshot Nexus Repository </name>
-	      <url>http://3.19.244.59:9000/nexus/repository/recordcenter-snapshort/</url>
+	      <url>http://ec2-184-72-97-71.compute-1.amazonaws.com:8081/repository/repo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
