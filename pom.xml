@@ -93,9 +93,11 @@
 		
 	</dependencies>
 	   <repositories>
-	      <id>nexus</id>
-	      <url>http://ec2-184-72-97-71.compute-1.amazonaws.com:8081/repository/Nexus/</url>
-	    </repositories>
+		<repository>
+		 	 <id>nexus</id>
+	     		 <url>http://ec2-184-72-97-71.compute-1.amazonaws.com:8081/repository/Nexus/</url>
+		</repository>
+		</repositories>
 	<distributionManagement>
 	
 	    <repository>
